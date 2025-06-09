@@ -74,7 +74,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#map1-i\"><span class=\"fa fa-map-marker mbr-iconfont mbr-iconfont-btn\"></span>DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"tel:(251) 508-7590\">(251) 508-7590</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#map1-i\"><span class=\"fa fa-map-marker mbr-iconfont mbr-iconfont-btn\"></span>DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-7590\">(251) 508-7590</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -223,7 +223,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:(251) 508-7590\" data-toolbar=\"-mbrBtnMove\">(251) 508-7590</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tel:(251) 508-7590\" data-toolbar=\"-mbrBtnMove\">(251) 508-7590</a> ",
           "_name": "msg-box6",
           "_anchor": "msg-box6-s",
           "_sourceTheme": "mobirise3"
@@ -242,7 +242,7 @@
             "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#90a878"
+            "bgColor": "#000000"
           },
           "title": "Come enjoy a day at our retreat on the Escatawpa River",
           "meta": "By John Smith posted July 20, 2016",
@@ -273,8 +273,8 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "title": "Rental Options",
-          "meta": "We off several rental options for all your recreational needs",
+          "title": "Amenities",
+          "meta": "Our home is fully furnished and ready for your retreat",
           "_tags": [
             "Theme"
           ],
@@ -365,13 +365,13 @@
               "active": true
             }
           },
-          "title1": "Daily Rentals",
+          "title1": "Full walk around Deck",
           "subtitle1": "2023",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Weekly Rentals",
+          "title2": "All new steps for easy access",
           "subtitle2": "May 29, 2023&nbsp;",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Monthly Rentals",
+          "title3": "Comfort Just like home",
           "subtitle3": "July 4th 2023",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Veterans Day",
@@ -423,7 +423,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Cold Water Creek",
+                "title": "Spacious Running Creek",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Plenty of room to cool off in the heat",
@@ -438,7 +438,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Shallow Sandy Creek",
+                "title": "Shallow Sandy Areas for small Children",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
@@ -453,7 +453,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Beautiful Scenery",
+                "title": "Beautiful Scenery to Enjoy",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
@@ -510,7 +510,7 @@
         {
           "_params": {
             "googleMap": {
-              "address": "Escatawpa River",
+              "address": "5295 Agricola Latonia Rd Lucedale, Mississippi",
               "state": "ok",
               "stateDetails": ""
             }
@@ -551,7 +551,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>Escatawpa River, Mississippi<br>",
+          "text1": "<strong>Address</strong><br><a href=\"https://g.co/kgs/3M5hjxb\" class=\"text-danger\">5295 Agricola Latonia Rd Lucedale, Mississippi</a><br>",
           "text2": "<strong>Contacts</strong><br>Phone <a href=\"tel:(251) 508-7590\" class=\"text-danger\">(251) 508-7590</a><br>",
           "text3": "<strong>Links</strong><br>\n<a href=\"index.html\" class=\"text-warning\">Home</a><br>",
           "_tags": [
