@@ -219,7 +219,7 @@
             }
           },
           "title": "Rocky Creek Retreat",
-          "text": "<i style=\"\">Escatawpa River, Mississippi</i>",
+          "text": "Lucedale, Mississippi<br>",
           "_tags": [
             "Theme"
           ],
@@ -244,7 +244,7 @@
             "paddingBottom": "2",
             "bgColor": "#000000"
           },
-          "title": "Come enjoy a day at our retreat on the Escatawpa River",
+          "title": "Come enjoy a day at our retreat on Rocky Creek",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -498,7 +498,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "title": "Beautiful Escatawpa River",
+          "title": "Beautiful Rocky Creek",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -551,7 +551,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br><a href=\"https://g.co/kgs/3M5hjxb\" class=\"text-danger\">5295 Agricola Latonia Rd Lucedale, Mississippi</a><br>",
+          "text1": "<strong>Address</strong><br>5295 Agricola Latonia Rd Lucedale, Mississippi<br>",
           "text2": "<strong>Contacts</strong><br>Phone <a href=\"tel:(251) 508-7590\" class=\"text-danger\">(251) 508-7590</a><br>",
           "text3": "<strong>Links</strong><br>\n<a href=\"index.html\" class=\"text-warning\">Home</a><br>",
           "_tags": [
