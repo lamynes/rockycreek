@@ -219,7 +219,7 @@
             }
           },
           "title": "Rocky Creek Retreat",
-          "text": "Lucedale, Mississippi<br>",
+          "text": "<b>Lucedale, Mississippi</b><br>",
           "_tags": [
             "Theme"
           ],
@@ -274,7 +274,7 @@
             "bgColor": "#fff"
           },
           "title": "Amenities",
-          "meta": "Our home is fully furnished and ready for your retreat",
+          "meta": "Our home is fully furnished with everything you need and ready for your retreat",
           "_tags": [
             "Theme"
           ],
