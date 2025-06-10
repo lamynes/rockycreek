@@ -181,7 +181,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "54",
+            "imageSize": "64",
             "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": true,
@@ -526,8 +526,8 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showText": false,
-            "showButtons": true,
+            "showText": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
@@ -567,7 +567,7 @@
             }
           },
           "title": "Reservations",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "text": "<p>Coming Soon.</p>",
           "_tags": [
             "Theme"
           ],
@@ -582,6 +582,10 @@
             "H3": {
               "text-align": "left",
               "font-size": "46px"
+            },
+            "P": {
+              "font-size": "20px",
+              "color": "#000000"
             }
           }
         },
