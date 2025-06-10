@@ -138,7 +138,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ihqexkgysfclclyu2tgkmq-removebg-preview.png-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ihqexkgysfclclyu2tgkmq-removebg-preview.png-500x500.png",
               "height": 128,
               "alt": "Dauphin Island Veterans Association",
               "link": "index.html",
