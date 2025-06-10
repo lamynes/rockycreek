@@ -164,11 +164,11 @@
             },
             "P": {
               "font-size": "36px",
-              "text-align": "center",
+              "text-align": "left",
               "color": "#000000"
             },
             "H3": {
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "60px",
               "color": "#000000"
             },
@@ -530,20 +530,20 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/original-918f02d4-1fcf-4112-8925-74170ee052e7-screenshot-20250501-125240-facebook.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -577,7 +577,11 @@
           "_anchor": "msg-box4-19",
           "_styles": {
             ".btn": {
-              "font-size": "30px"
+              "font-size": "36px"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "46px"
             }
           }
         },

@@ -804,11 +804,11 @@ section.form .container {
 }
 #msg-box6-s P {
   font-size: 36px;
-  text-align: center;
+  text-align: left;
   color: #000000;
 }
 #msg-box6-s H3 {
-  text-align: center;
+  text-align: left;
   font-size: 60px;
   color: #000000;
 }
@@ -847,7 +847,11 @@ section.form .container {
   text-align: center;
 }
 #msg-box4-19 .btn {
-  font-size: 30px;
+  font-size: 36px;
+}
+#msg-box4-19 H3 {
+  text-align: left;
+  font-size: 46px;
 }
 #contacts1-6 P {
   font-size: 20px;
