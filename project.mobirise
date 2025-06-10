@@ -37,7 +37,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "pwa-switcher": false,
-    "uniqCompNum": 45,
+    "uniqCompNum": 46,
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "imageResize": false,
@@ -521,6 +521,60 @@
           "_name": "map1",
           "_anchor": "map1-i",
           "_sourceTheme": "mobirise3"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/499533063-1153039169958408-7098354546368589944-n-removebg-preview-1.png",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Form Submit",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box4-19"
         },
         {
           "_params": {
