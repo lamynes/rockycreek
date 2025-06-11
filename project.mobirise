@@ -278,11 +278,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>Welcome to your perfect nature retreat, nestled along the pristine Cold Water Creek in Lucedale, Mississippi! Whether you're looking for a peaceful weekend escape, a cozy fishing spot, or a serene getaway surrounded by nature, this vacation rental is designed for relaxation and adventure.\r<br><br></p><p>Why You'll Love It Here\r</p><p>✔ Creekside Views – Wake up to the soothing sounds of flowing water and scenic natural beauty. ✔ Outdoor Adventures – Enjoy kayaking, fishing, swimming, and exploring the lush surroundings. ✔ Cozy Comforts – Fully equipped with comfortable amenities, including a relaxing outdoor seating area. ✔ Wildlife &amp; Serenity – Spot native birds, deer, and more while sipping coffee by the creek. ✔ Family &amp; Group Friendly – Perfect for couples, families, and small gatherings seeking a peaceful retreat.\r</p><p><br><span style=\"font-size: 1.07rem;\">Book Your Stay Today!</span><br></p><p>Don’t miss your chance to experience relaxation by the creek—whether for a quiet escape or an adventure-filled trip. Contact us now to reserve your stay!</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p>",
+          "text": "<p>Welcome to your perfect nature retreat, nestled along the pristine Cold Water Creek in Lucedale, Mississippi! Whether you're looking for a peaceful weekend escape, a cozy fishing spot, or a serene getaway surrounded by nature, this vacation rental is designed for relaxation and adventure.\n<br><br></p><p>Why You'll Love It Here\n</p><p>✔ Creekside Views – Wake up to the soothing sounds of flowing water and scenic natural beauty. ✔ Outdoor Adventures – Enjoy kayaking, fishing, swimming, and exploring the lush surroundings. ✔ Cozy Comforts – Fully equipped with comfortable amenities, including a relaxing outdoor seating area. ✔ Wildlife &amp; Serenity – Spot native birds, deer, and more while sipping coffee by the creek. ✔ Family &amp; Group Friendly – Perfect for couples, families, and small gatherings seeking a peaceful retreat.\n</p><p><br><span style=\"font-size: 1.07rem;\">Book Your Stay Today!</span><br></p><p>Don’t miss your chance to experience relaxation by the creek—whether for a quiet escape or an adventure-filled trip. Contact us now to reserve your stay!</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
@@ -291,7 +291,7 @@
           "_anchor": "content1-1f",
           "_styles": {
             "P": {
-              "font-size": "20px"
+              "font-size": "23px"
             }
           }
         },
@@ -305,7 +305,7 @@
               "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "font-size": "30px",
+              "font-size": "23px",
               "color": "#000000"
             }
           },
@@ -313,7 +313,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#ffc0cb"
           },
           "title": "Amenities",
           "meta": "Our home is fully furnished with everything you need and ready for your retreat",
@@ -410,7 +410,7 @@
           "title1": "Full walk around Deck",
           "subtitle1": "2023",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "All new steps for easy access",
+          "title2": "All new construction",
           "subtitle2": "May 29, 2023&nbsp;",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Comfort Just like home",
@@ -439,7 +439,7 @@
           "_anchor": "features3-13",
           "_styles": {
             "H4": {
-              "font-size": "36px"
+              "font-size": "30px"
             },
             "H5": {
               "color": "#000000",
