@@ -66,7 +66,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -174,7 +174,7 @@
             },
             "H3": {
               "text-align": "left",
-              "font-size": "60px",
+              "font-size": "48px",
               "color": "#ffffff",
               "font-family": "'Droid Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
@@ -192,7 +192,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "42",
+            "imageSize": "56",
             "paddingTop": "5",
             "paddingBottom": "4",
             "bgImageRadio": true,
@@ -229,7 +229,7 @@
               "size": 250
             }
           },
-          "title": "Rocky Creek Retreat",
+          "title": "Come enjoy a day at our retreat on Rocky Creek",
           "text": "<b>Lucedale, Mississippi</b><br>",
           "_tags": [
             "Theme"
