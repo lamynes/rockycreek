@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#ffc0cb",
         "#eae1c8",
         "#dfc39d",
         "#3cbcc7",
         "#1c96ba",
         "#6a9cd4",
-        "#83e223",
-        "#5199ea"
+        "#83e223"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -190,7 +190,7 @@
           "_params": {
             "showTitle": false,
             "showText": false,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": "34",
             "paddingTop": "5",
@@ -504,7 +504,7 @@
           "_anchor": "extSlider1-18",
           "_styles": {
             "H2": {
-              "color": "#eae1c8"
+              "color": "#ffc0cb"
             }
           }
         },
