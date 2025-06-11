@@ -2,8 +2,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -803,27 +801,6 @@ section.form .container {
   font-family: 'Droid Serif', serif;
   font-size: 20px;
 }
-#msg-box6-s h3,
-#msg-box6-s p {
-  color: #fff;
-}
-#msg-box6-s P {
-  font-size: 36px;
-  text-align: left;
-  color: #ffffff;
-}
-#msg-box6-s H3 {
-  text-align: left;
-  font-size: 48px;
-  color: #ffffff;
-  font-family: 'Droid Serif', serif;
-}
-#msg-box6-s .btn {
-  font-size: 20px;
-}
-#msg-box6-s B {
-  font-family: 'Droid Serif', serif;
-}
 #header3-q .mbr-section-title,
 #header3-q .mbr-section-subtitle {
   text-align: center;
@@ -832,6 +809,12 @@ section.form .container {
   color: #000000;
   font-size: 30px;
   font-family: 'Droid Serif', serif;
+}
+#msg-box5-1e P {
+  font-size: 25px;
+}
+#content1-1f P {
+  font-size: 20px;
 }
 #header3-12 .mbr-section-title,
 #header3-12 .mbr-section-subtitle {
