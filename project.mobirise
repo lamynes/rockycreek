@@ -72,7 +72,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffc0cb",
-            "fontSize": "1.5",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -101,10 +101,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.5rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.624rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -225,7 +225,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "34",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -278,7 +278,7 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "4",
             "bgColor": "#fff"
           },
