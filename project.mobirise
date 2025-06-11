@@ -170,7 +170,7 @@
             "P": {
               "font-size": "36px",
               "text-align": "left",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             "H3": {
               "text-align": "left",
@@ -188,8 +188,8 @@
             }
           },
           "_params": {
-            "showTitle": false,
-            "showText": false,
+            "showTitle": true,
+            "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "42",
