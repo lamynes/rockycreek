@@ -825,17 +825,15 @@ section.form .container {
 #content1-1f UL {
   font-size: 23px;
 }
-#header3-12 .mbr-section-title,
-#header3-12 .mbr-section-subtitle {
+#header3-1h .mbr-section-title,
+#header3-1h .mbr-section-subtitle {
   text-align: center;
 }
-#header3-12 .mbr-section-title {
-  font-size: 48px;
-  color: #000000;
-}
-#header3-12 .mbr-section-subtitle {
+#content6-1g .lead P {
   font-size: 23px;
-  color: #000000;
+}
+#content6-1g .lead UL {
+  font-size: 22px;
 }
 #features3-13 H4 {
   font-size: 30px;

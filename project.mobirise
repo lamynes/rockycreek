@@ -40,7 +40,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "pwa-switcher": false,
-    "uniqCompNum": 52,
+    "uniqCompNum": 54,
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "imageResize": false,
@@ -302,30 +302,45 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "48px",
-              "color": "#000000"
-            },
-            ".mbr-section-subtitle": {
-              "font-size": "23px",
-              "color": "#000000"
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#ffc0cb"
           },
           "title": "Amenities",
-          "meta": "Our home is fully furnished with everything you need and ready for your retreat",
+          "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_sourceTheme": "mobirise3",
-          "_anchor": "header3-12"
+          "_anchor": "header3-1h"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffc0cb"
+          },
+          "text1": "<ul><li>One bedroom/ Queen bed with pillow top\n</li><li>One full bath\n</li><li>Full kitchen\n</li><li>Wifi / Internet</li><li>Roku TV's</li></ul>",
+          "text2": "<ul><li>Wash &amp; dryer</li><li>Grill for use</li><li>Sofa Couch/ lets into full bed\n</li><li>Outdoor shower</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content6-1g",
+          "_styles": {
+            ".lead P": {
+              "font-size": "23px"
+            },
+            ".lead UL": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_params": {
