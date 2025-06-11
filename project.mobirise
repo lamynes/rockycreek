@@ -15,7 +15,7 @@
         "titleFont": "Droid Serif",
         "subtitleFont": "Droid Serif",
         "textFont": "Droid Serif",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
         "isRtl": false
@@ -262,7 +262,7 @@
             }
           },
           "title": "Peaceful, Relaxing, Fun",
-          "text": "Escape to Tranquility on the cold water creek<br><br>",
+          "text": "Escape to Tranquility on Rocky Creek in Lucedale, MS<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -279,10 +279,10 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "text": "<p>Welcome to your perfect nature retreat, nestled along the pristine Cold Water Creek in Lucedale, Mississippi! Whether you're looking for a peaceful weekend escape, a cozy fishing spot, or a serene getaway surrounded by nature, this vacation rental is designed for relaxation and adventure.\n<br><br></p><p>Why You'll Love It Here\n</p><p>✔ Creekside Views – Wake up to the soothing sounds of flowing water and scenic natural beauty. ✔ Outdoor Adventures – Enjoy kayaking, fishing, swimming, and exploring the lush surroundings. ✔ Cozy Comforts – Fully equipped with comfortable amenities, including a relaxing outdoor seating area. ✔ Wildlife &amp; Serenity – Spot native birds, deer, and more while sipping coffee by the creek. ✔ Family &amp; Group Friendly – Perfect for couples, families, and small gatherings seeking a peaceful retreat.\n</p><p><br><span style=\"font-size: 1.07rem;\">Book Your Stay Today!</span><br></p><p>Don’t miss your chance to experience relaxation by the creek—whether for a quiet escape or an adventure-filled trip. Contact us now to reserve your stay!</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+          "text": "<p>Welcome to your perfect nature retreat, nestled along the pristine cold water creek in Lucedale, Mississippi! Whether you're looking for a peaceful weekend escape, a cozy fishing spot, or a serene getaway surrounded by nature, this vacation rental is designed for relaxation and adventure.\n<br><br></p><p><b>Why You'll Love It Here\n</b></p><ul><li>Creekside Views – Wake up to the soothing sounds of flowing water and scenic natural beauty.</li><li>Outdoor Adventures – Enjoy kayaking, fishing, swimming, and exploring the lush surroundings.</li><li>Cozy Comforts – Fully equipped with comfortable amenities, including a relaxing outdoor seating area.</li><li>Wildlife &amp; Serenity – Spot native birds, deer, and more while sipping coffee by the creek.</li><li>Family &amp; Group Friendly – Perfect for couples, families, and small gatherings seeking a peaceful retreat.</li></ul><p><br></p><p><b>Book Your Stay Today</b><br>Don’t miss your chance to experience relaxation by the creek—whether for a quiet escape or an adventure-filled trip. Contact us now to reserve your stay!<br></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
@@ -291,6 +291,9 @@
           "_anchor": "content1-1f",
           "_styles": {
             "P": {
+              "font-size": "23px"
+            },
+            "UL": {
               "font-size": "23px"
             }
           }
