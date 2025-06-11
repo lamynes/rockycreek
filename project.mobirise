@@ -7,24 +7,27 @@
       "title": "Mobirise3",
       "styling": {
         "primaryColor": "#000000",
-        "secondaryColor": "#7e9b9f",
-        "successColor": "#90a878",
-        "infoColor": "#7c706b",
-        "warningColor": "#a38f84",
-        "dangerColor": "#c0a375",
-        "titleFont": "Oswald",
-        "subtitleFont": "Oswald",
-        "textFont": "Oswald",
+        "secondaryColor": "#25aa9c",
+        "successColor": "#ffc0cb",
+        "infoColor": "#00ffef",
+        "warningColor": "#3d8eb9",
+        "dangerColor": "#f3c649",
+        "titleFont": "Droid Serif",
+        "subtitleFont": "Droid Serif",
+        "textFont": "Droid Serif",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
+        "#eae1c8",
+        "#dfc39d",
+        "#3cbcc7",
+        "#1c96ba",
         "#6a9cd4",
         "#83e223",
-        "#5199ea",
-        "#232323"
+        "#5199ea"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -51,7 +54,7 @@
       "settings": {
         "main": true,
         "title": "Rocky Creek Retreat",
-        "meta_descr": "Come relax at our Retreat on the Escatawpa River in Mississippi.",
+        "meta_descr": "Come relax at our Retreat on Rocky Creek in Lucecdale, Mississippi.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -68,7 +71,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#ffc0cb",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#000000",
@@ -84,7 +87,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -105,13 +110,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#ff8da1"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#ffb1be!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#ffc0cb"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -130,8 +135,8 @@
               "font-size": "20px"
             },
             "A": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
               "font-size": "20px"
             }
           },
@@ -170,22 +175,28 @@
             "H3": {
               "text-align": "left",
               "font-size": "60px",
-              "color": "#000000"
+              "color": "#ffffff",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
             },
             ".btn": {
               "font-size": "20px"
+            },
+            "B": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
             }
           },
           "_params": {
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "64",
-            "paddingTop": "4",
-            "paddingBottom": "2",
+            "imageSize": "34",
+            "paddingTop": "5",
+            "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/image000002.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/684733ca7a9c38.34682302processed.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -193,8 +204,8 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#dfc39d",
             "overlayOpacity": "0.2"
           },
           "media": {
@@ -234,15 +245,17 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "30px"
+              "color": "#000000",
+              "font-size": "30px",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#000000"
+            "bgColor": "#ffc0cb"
           },
           "title": "Come enjoy a day at our retreat on Rocky Creek",
           "meta": "By John Smith posted July 20, 2016",
@@ -259,7 +272,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "60px",
+              "font-size": "48px",
               "color": "#000000"
             },
             ".mbr-section-subtitle": {
@@ -271,7 +284,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
           },
           "title": "Amenities",
           "meta": "Our home is fully furnished with everything you need and ready for your retreat",
@@ -397,7 +410,7 @@
           "_anchor": "features3-13",
           "_styles": {
             "H4": {
-              "font-size": "48px"
+              "font-size": "36px"
             },
             "H5": {
               "color": "#000000",
@@ -428,7 +441,8 @@
                 "contentAlign": "center",
                 "text": "Plenty of room to cool off in the heat",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
+                "alt": "",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/image000000-1.jpg-1130x522.jpg",
@@ -443,7 +457,8 @@
                 "contentAlign": "left",
                 "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
+                "alt": "",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/original-38790365-cc4a-4dee-9a46-afa95e09a437-screenshot-20250501-125252-facebook.jpg-1059x785.jpg",
@@ -453,12 +468,13 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Beautiful Scenery to Enjoy",
+                "title": "Beautiful Outdoor Scenery to Enjoy",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
+                "alt": "",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/original-898d5d5c-9901-4eb1-a334-0279cbe912a8-screenshot-20250501-125403-facebook.jpg-1064x1428.jpg",
@@ -473,7 +489,8 @@
                 "contentAlign": "right",
                 "text": "Welcome to our Fireworks show each year.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
+                "alt": "",
+                "overlayOpacity": "0.3"
               }
             ]
           },
@@ -484,7 +501,12 @@
           ],
           "_name": "extSlider1",
           "_sourceTheme": "mobirise3",
-          "_anchor": "extSlider1-18"
+          "_anchor": "extSlider1-18",
+          "_styles": {
+            "H2": {
+              "color": "#eae1c8"
+            }
+          }
         },
         {
           "_styles": {
@@ -532,11 +554,11 @@
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/original-918f02d4-1fcf-4112-8925-74170ee052e7-screenshot-20250501-125240-facebook.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgColor": "#eae1c8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -548,7 +570,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/499533063-1153039169958408-7098354546368589944-n-removebg-preview-1.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false,
@@ -619,8 +641,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>5295 Agricola Latonia Rd Lucedale, Mississippi<br>",
-          "text2": "<strong>Contacts</strong><br>Phone <a href=\"tel:(251) 508-7590\" class=\"text-danger\">(251) 508-7590</a><br>",
-          "text3": "<strong>Links</strong><br>\n<a href=\"index.html\" class=\"text-warning\">Home</a><br>",
+          "text2": "<strong>Contacts</strong><br>Phone <a href=\"tel:(251) 508-7590\" class=\"text-black\">(251) 508-7590</a><br>",
+          "text3": "<strong>Links</strong><br>\n<a href=\"index.html\" class=\"text-black\">Home</a><br>",
           "_tags": [
             "Theme"
           ],
