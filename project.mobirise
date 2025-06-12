@@ -331,8 +331,8 @@
             "paddingBottom": 1,
             "bgColor": "#ffc0cb"
           },
-          "text1": "<ul><li><b>One bedroom/ Queen bed with pillow top\n</b></li><li><b>One full bath\n</b></li><li><b>Full kitchen\n</b></li><li><b>Wifi / Internet</b></li><li><b>Roku TV's</b></li></ul>",
-          "text2": "<ul><li><b>Wash &amp; dryer</b></li><li><b>Grill for use</b></li><li><b>Sofa Couch/ lets into full bed\n</b></li><li><b>Outdoor shower</b></li></ul>",
+          "text1": "<ul><li><b>One Bedroom/ Queen Bed with Pillow Top\n</b></li><li><b>One Full Bath\n</b></li><li><b>Full Kitchen\n</b></li><li><b>Wifi / Internet</b></li><li><b>Roku TV's</b></li></ul>",
+          "text2": "<ul><li><b>Wash &amp; dryer</b></li><li><b>Grill for use</b></li><li><b>Sofa Couch / turns into full bed\n</b></li><li><b>Outdoor Shower</b></li></ul>",
           "_tags": [
             "Theme"
           ],
