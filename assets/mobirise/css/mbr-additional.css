@@ -847,6 +847,9 @@ section.form .container {
 #extSlider1-18 H2 {
   color: #ffc0cb;
 }
+#extSlider1-18 P {
+  font-size: 30px;
+}
 #header3-15 .mbr-section-title,
 #header3-15 .mbr-section-subtitle {
   text-align: center;

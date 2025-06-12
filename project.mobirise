@@ -384,7 +384,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/original-918f02d4-1fcf-4112-8925-74170ee052e7-screenshot-20250501-125240-facebook.jpg",
+              "src": "@PROJECT_PATH@/assets/images/original-9ea809ab-ac68-4239-90c0-f4ccb96261c8-screenshot-20250501-125244-facebook.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -437,16 +437,16 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Full walk around Deck",
+          "title1": "Full Walk Around Deck",
           "subtitle1": "2023",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "All new construction",
+          "title2": "One Bedroom",
           "subtitle2": "May 29, 2023&nbsp;",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Fully Furnished",
+          "title3": "Full Kitchen",
           "subtitle3": "July 4th 2023",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Complete Bathroom",
+          "title4": "Full Bathroom",
           "subtitle4": "Nov 11, 2023",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Washer &amp; Dryer",
@@ -564,6 +564,9 @@
           "_styles": {
             "H2": {
               "color": "#ffc0cb"
+            },
+            "P": {
+              "font-size": "30px"
             }
           }
         },
