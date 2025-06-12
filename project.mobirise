@@ -1001,7 +1001,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/original-38790365-cc4a-4dee-9a46-afa95e09a437-screenshot-20250501-125252-facebook.jpg-1059x785.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -1021,7 +1021,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/original-5f7cffe7-33f1-4695-abd6-697971ea774d-screenshot-20250501-125224-facebook.jpg-1080x1396.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
