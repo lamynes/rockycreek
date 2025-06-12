@@ -1000,8 +1000,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/684aa9254e4f50.85217073processed.webp",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/original-38790365-cc4a-4dee-9a46-afa95e09a437-screenshot-20250501-125252-facebook.webp-1059x785.webp",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -1021,7 +1021,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/original-5f7cffe7-33f1-4695-abd6-697971ea774d-screenshot-20250501-125224-facebook.webp-1080x1396.webp",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -1060,7 +1060,7 @@
                 "overlayOpacity": "0.3"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image000000-1-upscaled.webp-2000x924.webp",
+                "image": "@PROJECT_PATH@/assets/images/image000000-1.webp-1130x522.webp",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
