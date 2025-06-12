@@ -252,7 +252,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/rocky-creek-retreat-1.png",
               "link": "",
-              "alt": "",
+              "alt": "Rocky Creek Retreat",
               "linkInNewWindow": false
             },
             "video": {
@@ -331,8 +331,8 @@
             "paddingBottom": 1,
             "bgColor": "#ffc0cb"
           },
-          "text1": "<ul><li>One bedroom/ Queen bed with pillow top\n</li><li>One full bath\n</li><li>Full kitchen\n</li><li>Wifi / Internet</li><li>Roku TV's</li></ul>",
-          "text2": "<ul><li>Wash &amp; dryer</li><li>Grill for use</li><li>Sofa Couch/ lets into full bed\n</li><li>Outdoor shower</li></ul>",
+          "text1": "<ul><li><b>One bedroom/ Queen bed with pillow top\n</b></li><li><b>One full bath\n</b></li><li><b>Full kitchen\n</b></li><li><b>Wifi / Internet</b></li><li><b>Roku TV's</b></li></ul>",
+          "text2": "<ul><li><b>Wash &amp; dryer</b></li><li><b>Grill for use</b></li><li><b>Sofa Couch/ lets into full bed\n</b></li><li><b>Outdoor shower</b></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -357,7 +357,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": 2,
-            "columns": "3",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -373,62 +373,68 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/original-8f458b3d-12ac-4540-9592-b64b93b6dc93-screenshot-20250501-125300-facebook.jpg-600x440.jpg",
+              "src": "@PROJECT_PATH@/assets/images/original-5f7cffe7-33f1-4695-abd6-697971ea774d-screenshot-20250501-125224-facebook.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Rocky Creek Retreat",
               "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/original-38790365-cc4a-4dee-9a46-afa95e09a437-screenshot-20250501-125252-facebook.jpg-600x445.jpg",
+              "src": "@PROJECT_PATH@/assets/images/original-918f02d4-1fcf-4112-8925-74170ee052e7-screenshot-20250501-125240-facebook.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Rocky Creek Retreat",
               "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/original-cabdfc40-509c-4929-9d4c-07562eb52c48-screenshot-20250501-125248-facebook.jpg-600x447.jpg",
+              "src": "@PROJECT_PATH@/assets/images/original-898d5d5c-9901-4eb1-a334-0279cbe912a8-screenshot-20250501-125403-facebook.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Rocky Creek Retreat",
               "linkInNewWindow": false
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/original-caac74a9-bd1a-4e67-8902-f79b7b906f37-screenshot-20250501-125233-facebook.jpg-600x799.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/original-81c4845b-7da8-4f48-8a0f-c618b9afa19e-screenshot-20250501-125411-facebook.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Rocky Creek Retreat",
               "linkInNewWindow": false
             }
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/original-42defaaf-b666-4395-ba34-4cccbaabdd3f-screenshot-20250501-125421-facebook.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "Rocky Creek Retreat",
+              "linkInNewWindow": false
             }
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/original-8964938e-4f6f-4ecd-a02f-38fb1304af49-screenshot-20250501-125407-facebook.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "Rocky Creek Retreat",
+              "linkInNewWindow": false
             }
           },
           "title1": "Full walk around Deck",
@@ -437,16 +443,16 @@
           "title2": "All new construction",
           "subtitle2": "May 29, 2023&nbsp;",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Comfort Just like home",
+          "title3": "Fully Furnished",
           "subtitle3": "July 4th 2023",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Veterans Day",
+          "title4": "Complete Bathroom",
           "subtitle4": "Nov 11, 2023",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
+          "title5": "Washer &amp; Dryer",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
+          "title6": "Internet/WIFI",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
