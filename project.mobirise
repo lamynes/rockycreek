@@ -40,7 +40,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "pwa-switcher": false,
-    "uniqCompNum": 54,
+    "uniqCompNum": 55,
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "imageResize": false,
@@ -164,34 +164,7 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROCKY CREEK RETREAT</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-2",
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "30px",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#ffc0cb"
-          },
-          "title": "Come enjoy a day at our retreat on Rocky Creek",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-q",
+          "_anchor": "ext_menu-1i",
           "_sourceTheme": "mobirise3"
         },
         {
