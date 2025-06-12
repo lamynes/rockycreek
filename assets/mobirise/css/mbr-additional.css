@@ -1951,24 +1951,80 @@ section.lazy-placeholder:after {
 .cid-uNRCrMVMKS .mbr-text {
   color: #000000;
 }
-.cid-uNRDNeCvUC {
-  background: #ffffff;
-  background: linear-gradient(90deg, #ffffff, #ffc0cb);
+.cid-uNS5yo1vyM {
+  background-image: url("../../../assets/images/image000005.jpg-799x369.jpg");
 }
-.cid-uNRDNeCvUC .container-fluid {
-  padding: 0 3rem;
+.cid-uNS5yo1vyM .mbr-media span {
+  font-size: 48px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+  color: #353535;
 }
-.cid-uNRDNeCvUC .video-block {
-  margin: auto;
-  width: 100% !important;
+.cid-uNS5yo1vyM .mbr-media span.mbri-play:before {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-35%);
+  -moz-transform: translateX(-35%);
+  -ms-transform: translateX(-35%);
+  -o-transform: translateX(-35%);
+  transform: translateX(-35%);
 }
-@media (max-width: 767px) {
-  .cid-uNRDNeCvUC .container-fluid {
-    padding: 0 1rem;
-  }
-  .cid-uNRDNeCvUC .video-block {
-    width: 100% !important;
-  }
+.cid-uNS5yo1vyM .modalWindow {
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-uNS5yo1vyM .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+.cid-uNS5yo1vyM .modalWindow .modalWindow-video {
+  height: calc(44.9943757vw);
+  width: 80vw;
+  margin: 0 auto;
+}
+.cid-uNS5yo1vyM a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-uNS5yo1vyM a.close:hover {
+  color: #ffffff;
+}
+.cid-uNS5yo1vyM H1 {
+  color: #ffffff;
+  text-shadow: 0 0 20px #000000;
+  text-align: center;
+}
+.cid-uNS5yo1vyM P {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-uNS5yo1vyM B {
+  color: #ffffff;
+}
+.cid-uNS5yo1vyM SPAN {
+  color: #149dcc;
+}
+.cid-uNS5yo1vyM .icon-description {
+  color: #ffffff;
 }
 .cid-uNRHKyGb5B {
   padding-top: 0px;
