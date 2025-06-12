@@ -214,7 +214,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Come enjoy your day at our Retreat on Rocky Creek",
+          "title": "Escape to Tranquility on Rocky Creek in Lucedale, MS",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -227,7 +227,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": true,
             "imageSize": "34",
