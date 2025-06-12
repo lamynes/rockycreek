@@ -72,8 +72,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffc0cb",
-            "fontSize": "1.2",
-            "fontName": {},
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Droid Serif",
+              "url": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "css": "'Droid Serif', serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
@@ -98,13 +102,15 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-family": "'Droid Serif', serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -208,7 +214,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Come enjoy a day at our retreat on Rocky Creek",
+          "title": "Come enjoy your day at our Retreat on Rocky Creek",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [

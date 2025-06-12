@@ -2,6 +2,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -755,13 +756,14 @@ section.form .container {
 #ext_menu-2 .link,
 #ext_menu-2 .dropdown-item {
   color: #000000;
+  font-family: 'Droid Serif', serif;
 }
 #ext_menu-2 .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #ext_menu-2 .dropdown-item,
 #ext_menu-2 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #ext_menu-2 .link:hover,
 #ext_menu-2 .dropdown-item:hover,
