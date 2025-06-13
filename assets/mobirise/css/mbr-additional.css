@@ -1508,8 +1508,6 @@ section.lazy-placeholder:after {
 }
 .cid-uNRyvLUnll .mbr-overlay {
   background: #000000;
-  background: linear-gradient(45deg, #000000, #ffc0cb);
-  background: radial-gradient(#000000, #ffc0cb);
 }
 .cid-uNRyvLUnll .mbr-section-title {
   margin: 0;
