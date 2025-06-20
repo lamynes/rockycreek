@@ -46,7 +46,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 47,
+    "uniqCompNum": 49,
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1573,32 +1573,6 @@
           "_global": true,
           "_once": false,
           "_params": {}
-        },
-        {
-          "alias": "soundcloud",
-          "_isSecondary": true,
-          "typeCompatible": "!isAMP",
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            "iframe": {
-              "margin-left": "auto",
-              "margin-right": "auto"
-            },
-            ".container-fluid": {
-              "padding": "0"
-            }
-          },
-          "_name": "soundcloud1",
-          "_sourceTheme": "storem4",
-          "_customHTML": "<section class=\"mbr-section soundcloud1\" group=\"Media\" mbr-class=\"{'mbr-fullscreen': fullScreen}\" plugins=\"soundcloud-plugin\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"scWidth\" title=\"Player Width\" min=\"4\" max=\"12\" value=\"4\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Autoplay\" name=\"autoplay\" checked>\n\n        <input type=\"radio\" title=\"Track\" name=\"itemType\" value=\"tracks\" checked>\n        <input type=\"radio\" title=\"Playlist\" name=\"itemType\" value=\"playlists\">\n        <input type=\"text\" title=\"ID\" name=\"itemId\" value=\"1708740849\">\n\n        <input type=\"color\" title=\"Bg Color\" name=\"bgColor\" value=\"#232323\">\n    </mbr-parameters>\n\n    <div class=\"mbr-section__container\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <h3 class=\"mbr-fonts-style mbr-section-title align-center sc__title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".sc__title\">\n            SoundСloud\n        </h3>\n        <div class=\"row justify-content-center\">\n            <div class=\"col-lg-{{scWidth}}\">\n                <figure class=\"mobirise-loader mbr-figure mbr-figure--wysiwyg mbr-figure--full-width mbr-figure--caption-outside-bottom\">\n                    <iframe class=\"mbr-embedded-video\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/{{itemType}}/{{itemId}}&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\" frameborder=\"0\" allowfullscreen></iframe>\n                </figure>\n            </div>\n        </div>\n\n    </div>\n    <div class=\"clearfix\"></div>\n</section>",
-          "_cid": "uOHmrdcCDC",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "soundcloud1-1a"
         }
       ]
     }
