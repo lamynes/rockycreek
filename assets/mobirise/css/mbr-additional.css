@@ -1911,7 +1911,11 @@ section.lazy-placeholder:after {
 }
 .cid-uNREmLoi3q .mbr-section-title {
   margin: 0;
-  text-shadow: 0 0 20px #000000;
+  text-shadow: 0 0 10px #000000;
+}
+.cid-uNREmLoi3q .mbr-section-title,
+.cid-uNREmLoi3q .underline {
+  text-align: left;
 }
 .cid-uNRCrMVMKS {
   padding-top: 60px;
@@ -1946,9 +1950,6 @@ section.lazy-placeholder:after {
   height: 25px;
   border-radius: 50%;
   background: linear-gradient(135deg, #8264fd, #ffa0a4);
-  background: none;
-  border: 1px solid #8264fd;
-  color: #8264fd;
   content: '✓';
 }
 .cid-uNRCrMVMKS .mbr-text {
