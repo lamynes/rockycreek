@@ -2276,15 +2276,15 @@ section.lazy-placeholder:after {
     margin-bottom: 1.5rem;
   }
 }
-#custom-html-18 {
-  /* Type valid CSS here */
+.cid-uOHmrdcCDC {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #232323;
 }
-#custom-html-18 div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
+.cid-uOHmrdcCDC iframe {
+  margin-left: auto;
+  margin-right: auto;
 }
-#custom-html-18 p {
-  font-size: 60px;
-  color: #777;
+.cid-uOHmrdcCDC .container-fluid {
+  padding: 0;
 }
