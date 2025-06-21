@@ -1125,7 +1125,11 @@
               "text-shadow": "0 0 10px #000000"
             },
             ".mbr-section-title, .underline": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".mbr-text, .card-btn": {
+              "color": "#232323"
             }
           },
           "_name": "features18",

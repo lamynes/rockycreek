@@ -1916,6 +1916,11 @@ section.lazy-placeholder:after {
 .cid-uNREmLoi3q .mbr-section-title,
 .cid-uNREmLoi3q .underline {
   text-align: left;
+  color: #ffffff;
+}
+.cid-uNREmLoi3q .mbr-text,
+.cid-uNREmLoi3q .card-btn {
+  color: #232323;
 }
 .cid-uNRCrMVMKS {
   padding-top: 60px;
